@@ -7,16 +7,16 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 0.5, "y": 1, "z": 0},
+        "offset": {"x": 1, "y": 1, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 3, "y": 2, "z": 5},
+          "size": {"x": 4, "y": 2, "z": 5},
           "isStaticBox": true
         },
         "textureLayout": {
           "back": {
-            "offset": {"x": 1, "y": 0},
+            "offset": {"x": 0, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -59,16 +59,16 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 0.5, "y": 1, "z": 0},
+        "offset": {"x": 1, "y": 1, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 3, "y": 2, "z": 5},
+          "size": {"x": 4, "y": 2, "z": 5},
           "isStaticBox": true
         },
         "textureLayout": {
           "back": {
-            "offset": {"x": 1, "y": 0},
+            "offset": {"x": 0, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -111,16 +111,16 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 0.5, "y": 17.5, "z": 0},
+        "offset": {"x": 1, "y": 17.5, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 2, "y": 35, "z": 4},
+          "size": {"x": 3, "y": 35, "z": 4},
           "isStaticBox": true
         },
         "textureLayout": {
           "back": {
-            "offset": {"x": 1, "y": 0},
+            "offset": {"x": 0, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -163,11 +163,11 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 3, "y": 0.5, "z": 0},
+        "offset": {"x": 3.5, "y": 0.5, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 28, "y": 1, "z": 3},
+          "size": {"x": 27, "y": 1, "z": 3},
           "isStaticBox": true
         },
         "textureLayout": {
@@ -182,7 +182,7 @@
             "angle": 0
           },
           "front": {
-            "offset": {"x": 1, "y": 31},
+            "offset": {"x": 2, "y": 31},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -192,12 +192,12 @@
             "angle": 0
           },
           "top": {
-            "offset": {"x": 1, "y": 2},
+            "offset": {"x": 2, "y": 2},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
           "bottom": {
-            "offset": {"x": 1, "y": 0},
+            "offset": {"x": 2, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           }
@@ -215,11 +215,11 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 3, "y": 1, "z": 0},
+        "offset": {"x": 3.5, "y": 1, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 0.8},
         "settings": {
           "isPiece": false,
-          "size": {"x": 28, "y": 2, "z": 3},
+          "size": {"x": 27, "y": 2, "z": 3},
           "isStaticBox": true
         },
         "textureLayout": {
@@ -234,7 +234,7 @@
             "angle": 0
           },
           "front": {
-            "offset": {"x": 1, "y": 30},
+            "offset": {"x": 2, "y": 30},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -244,12 +244,12 @@
             "angle": 0
           },
           "top": {
-            "offset": {"x": 1, "y": 2},
+            "offset": {"x": 2, "y": 2},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
           "bottom": {
-            "offset": {"x": 1, "y": 0},
+            "offset": {"x": 2, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           }
@@ -267,11 +267,11 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 3, "y": 1, "z": 0},
+        "offset": {"x": 3.5, "y": 1, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 0.8},
         "settings": {
           "isPiece": false,
-          "size": {"x": 28, "y": 2, "z": 3},
+          "size": {"x": 27, "y": 2, "z": 3},
           "isStaticBox": true
         },
         "textureLayout": {
@@ -286,7 +286,7 @@
             "angle": 0
           },
           "front": {
-            "offset": {"x": 1, "y": 30},
+            "offset": {"x": 2, "y": 30},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -296,12 +296,12 @@
             "angle": 0
           },
           "top": {
-            "offset": {"x": 1, "y": 2},
+            "offset": {"x": 2, "y": 2},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
           "bottom": {
-            "offset": {"x": 1, "y": 0},
+            "offset": {"x": 2, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           }
@@ -371,11 +371,11 @@
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 7, "y": 6.5, "z": 0},
+        "offset": {"x": 7.5, "y": 6.5, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 28, "y": 11, "z": 2},
+          "size": {"x": 27, "y": 11, "z": 2},
           "isStaticBox": true
         },
         "textureLayout": {
@@ -390,7 +390,7 @@
             "angle": 0
           },
           "front": {
-            "offset": {"x": 0, "y": 20},
+            "offset": {"x": 1, "y": 20},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -400,12 +400,12 @@
             "angle": 0
           },
           "top": {
-            "offset": {"x": 0, "y": 2},
+            "offset": {"x": 1, "y": 2},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
           "bottom": {
-            "offset": {"x": 0, "y": 0},
+            "offset": {"x": 1, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           }
@@ -419,7 +419,7 @@
     {
       "id": "9",
       "name": "cube",
-      "position": {"x": -13, "y": 16, "z": 0},
+      "position": {"x": -12, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -427,7 +427,7 @@
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 2, "y": 45, "z": 1},
+          "size": {"x": 2, "y": 45, "z": 2},
           "isStaticBox": true
         },
         "textureLayout": {
@@ -437,7 +437,7 @@
             "angle": 0
           },
           "right": {
-            "offset": {"x": 3, "y": 0},
+            "offset": {"x": 2, "y": 0},
             "mirror": {"x": false, "y": false},
             "angle": 0
           },
@@ -457,7 +457,7 @@
             "angle": 0
           },
           "bottom": {
-            "offset": {"x": 1, "y": 3},
+            "offset": {"x": 1, "y": 2},
             "mirror": {"x": false, "y": false},
             "angle": 0
           }
@@ -471,11 +471,11 @@
     {
       "id": "10",
       "name": "cube",
-      "position": {"x": -10, "y": 16, "z": 0},
+      "position": {"x": -8, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
+        "offset": {"x": -0.5, "y": 22.5, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
@@ -522,58 +522,6 @@
     },
     {
       "id": "11",
-      "name": "cube",
-      "position": {"x": -8, "y": 16, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 1},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 1, "y": 45, "z": 1},
-          "isStaticBox": true
-        },
-        "textureLayout": {
-          "back": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "right": {
-            "offset": {"x": 3, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "front": {
-            "offset": {"x": 1, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "left": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "top": {
-            "offset": {"x": 1, "y": 2},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "bottom": {
-            "offset": {"x": 1, "y": 3},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": false,
-        "shadingMode": "flat"
-      }
-    },
-    {
-      "id": "12",
       "name": "cube",
       "position": {"x": -6, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
@@ -625,9 +573,61 @@
       }
     },
     {
-      "id": "13",
+      "id": "12",
       "name": "cube",
       "position": {"x": -4, "y": 16, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "box",
+        "offset": {"x": 0.5, "y": 22.5, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 1, "y": 45, "z": 1},
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 2, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 3, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 1, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 2, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "top": {
+            "offset": {"x": 1, "y": 2},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 1, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      }
+    },
+    {
+      "id": "13",
+      "name": "cube",
+      "position": {"x": -1, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -679,11 +679,11 @@
     {
       "id": "14",
       "name": "cube",
-      "position": {"x": -2, "y": 16, "z": 0},
+      "position": {"x": 1, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
+        "offset": {"x": 0.5, "y": 22.5, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
@@ -731,59 +731,7 @@
     {
       "id": "15",
       "name": "cube",
-      "position": {"x": 0, "y": 16, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 1},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 1, "y": 45, "z": 1},
-          "isStaticBox": true
-        },
-        "textureLayout": {
-          "back": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "right": {
-            "offset": {"x": 3, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "front": {
-            "offset": {"x": 1, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "left": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "top": {
-            "offset": {"x": 1, "y": 2},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "bottom": {
-            "offset": {"x": 1, "y": 3},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": false,
-        "shadingMode": "flat"
-      }
-    },
-    {
-      "id": "16",
-      "name": "cube",
-      "position": {"x": 3, "y": 16, "z": 0},
+      "position": {"x": 4, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -833,111 +781,59 @@
       }
     },
     {
+      "id": "16",
+      "name": "cube",
+      "position": {"x": 7, "y": 16, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "box",
+        "offset": {"x": 0.5, "y": 22.5, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 1, "y": 45, "z": 1},
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 2, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 3, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 1, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 2, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "top": {
+            "offset": {"x": 1, "y": 2},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 1, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      }
+    },
+    {
       "id": "17",
-      "name": "cube",
-      "position": {"x": 6, "y": 16, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 1},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 1, "y": 45, "z": 1},
-          "isStaticBox": true
-        },
-        "textureLayout": {
-          "back": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "right": {
-            "offset": {"x": 3, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "front": {
-            "offset": {"x": 1, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "left": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "top": {
-            "offset": {"x": 1, "y": 2},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "bottom": {
-            "offset": {"x": 1, "y": 3},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": false,
-        "shadingMode": "flat"
-      }
-    },
-    {
-      "id": "18",
-      "name": "cube",
-      "position": {"x": 8, "y": 16, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 1},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 1, "y": 45, "z": 1},
-          "isStaticBox": true
-        },
-        "textureLayout": {
-          "back": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "right": {
-            "offset": {"x": 3, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "front": {
-            "offset": {"x": 1, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "left": {
-            "offset": {"x": 2, "y": 0},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "top": {
-            "offset": {"x": 1, "y": 2},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "bottom": {
-            "offset": {"x": 1, "y": 3},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": false,
-        "shadingMode": "flat"
-      }
-    },
-    {
-      "id": "19",
       "name": "cube",
       "position": {"x": 10, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
@@ -989,13 +885,13 @@
       }
     },
     {
-      "id": "20",
+      "id": "18",
       "name": "cube",
-      "position": {"x": 12, "y": 16, "z": 0},
+      "position": {"x": 13, "y": 16, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
-        "offset": {"x": 0, "y": 22.5, "z": 0},
+        "offset": {"x": -0.5, "y": 22.5, "z": 0},
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
@@ -1041,9 +937,113 @@
       }
     },
     {
+      "id": "19",
+      "name": "cube",
+      "position": {"x": 15, "y": 18, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "box",
+        "offset": {"x": -13, "y": 1, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 0.9},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 27, "y": 2, "z": 1},
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 2, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 3, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 0, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 2, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "top": {
+            "offset": {"x": 0, "y": 2},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 0, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      }
+    },
+    {
+      "id": "20",
+      "name": "cube",
+      "position": {"x": 15, "y": 23, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "box",
+        "offset": {"x": -13, "y": 1, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 0.9},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 27, "y": 2, "z": 1},
+          "isStaticBox": true
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 2, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 3, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 0, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 2, "y": 30},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "top": {
+            "offset": {"x": 0, "y": 2},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 0, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      }
+    },
+    {
       "id": "21",
       "name": "cube",
-      "position": {"x": 14, "y": 18, "z": 0},
+      "position": {"x": 15, "y": 27, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1095,7 +1095,7 @@
     {
       "id": "22",
       "name": "cube",
-      "position": {"x": 14, "y": 23, "z": 0},
+      "position": {"x": 15, "y": 34, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1147,7 +1147,7 @@
     {
       "id": "23",
       "name": "cube",
-      "position": {"x": 14, "y": 27, "z": 0},
+      "position": {"x": 15, "y": 39, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1199,7 +1199,7 @@
     {
       "id": "24",
       "name": "cube",
-      "position": {"x": 14, "y": 34, "z": 0},
+      "position": {"x": 15, "y": 44, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1251,7 +1251,7 @@
     {
       "id": "25",
       "name": "cube",
-      "position": {"x": 14, "y": 39, "z": 0},
+      "position": {"x": 15, "y": 48, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1303,7 +1303,7 @@
     {
       "id": "26",
       "name": "cube",
-      "position": {"x": 14, "y": 44, "z": 0},
+      "position": {"x": 15, "y": 53, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1355,7 +1355,7 @@
     {
       "id": "27",
       "name": "cube",
-      "position": {"x": 14, "y": 48, "z": 0},
+      "position": {"x": 15, "y": 58, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1407,111 +1407,7 @@
     {
       "id": "28",
       "name": "cube",
-      "position": {"x": 14, "y": 53, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "box",
-        "offset": {"x": -13, "y": 1, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 0.9},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 27, "y": 2, "z": 1},
-          "isStaticBox": true
-        },
-        "textureLayout": {
-          "back": {
-            "offset": {"x": 2, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "right": {
-            "offset": {"x": 3, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "front": {
-            "offset": {"x": 0, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "left": {
-            "offset": {"x": 2, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "top": {
-            "offset": {"x": 0, "y": 2},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "bottom": {
-            "offset": {"x": 0, "y": 3},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": false,
-        "shadingMode": "flat"
-      }
-    },
-    {
-      "id": "29",
-      "name": "cube",
-      "position": {"x": 14, "y": 58, "z": 0},
-      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
-      "shape": {
-        "type": "box",
-        "offset": {"x": -13, "y": 1, "z": 0},
-        "stretch": {"x": 1, "y": 1, "z": 0.9},
-        "settings": {
-          "isPiece": false,
-          "size": {"x": 27, "y": 2, "z": 1},
-          "isStaticBox": true
-        },
-        "textureLayout": {
-          "back": {
-            "offset": {"x": 2, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "right": {
-            "offset": {"x": 3, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "front": {
-            "offset": {"x": 0, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "left": {
-            "offset": {"x": 2, "y": 30},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "top": {
-            "offset": {"x": 0, "y": 2},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          },
-          "bottom": {
-            "offset": {"x": 0, "y": 3},
-            "mirror": {"x": false, "y": false},
-            "angle": 0
-          }
-        },
-        "unwrapMode": "custom",
-        "visible": true,
-        "doubleSided": false,
-        "shadingMode": "flat"
-      }
-    },
-    {
-      "id": "30",
-      "name": "cube",
-      "position": {"x": -3, "y": 60, "z": 0},
+      "position": {"x": -2, "y": 60, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",
@@ -1561,9 +1457,9 @@
       }
     },
     {
-      "id": "31",
+      "id": "29",
       "name": "cube",
-      "position": {"x": -3, "y": 62, "z": 0},
+      "position": {"x": -2, "y": 62, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "box",

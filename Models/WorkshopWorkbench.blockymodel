@@ -5146,7 +5146,7 @@
           "id": "102",
           "name": "Nut4",
           "position": {"x": -20.5, "y": 32.6, "z": 8},
-          "orientation": {"x": -0.01305, "y": -0.53975, "z": 0.25704, "w": 0.80151},
+          "orientation": {"x": -0.01305, "y": -0.53975, "z": 0.25704, "w": 0.80152},
           "shape": {
             "type": "box",
             "offset": {"x": 0.13582, "y": -0.21172, "z": -0.02623},
@@ -7855,7 +7855,7 @@
               "id": "154",
               "name": "cube--C1",
               "position": {"x": 0, "y": 0, "z": 3.8},
-              "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+              "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 0, "z": -2.5},
@@ -7907,7 +7907,7 @@
               "id": "155",
               "name": "cube--C2",
               "position": {"x": 0, "y": 0, "z": 6.4},
-              "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+              "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 0, "z": -2},
@@ -7959,7 +7959,7 @@
               "id": "156",
               "name": "cube--C3",
               "position": {"x": 0, "y": 0, "z": 3.8},
-              "orientation": {"x": 0.70711, "y": 0, "z": 0.70711, "w": 0},
+              "orientation": {"x": -0.70711, "y": 0, "z": -0.70711, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 2, "y": 0, "z": 1.4},
@@ -8167,7 +8167,7 @@
               "id": "160",
               "name": "cube--C7",
               "position": {"x": 0, "y": 0, "z": 5.8},
-              "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+              "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 0, "z": -2},
@@ -8378,7 +8378,7 @@
           "id": "164",
           "name": "DoubleScrew",
           "position": {"x": 0.1, "y": 32.3, "z": -3},
-          "orientation": {"x": -0.0016, "y": 0.99779, "z": 0.06103, "w": 0.02613},
+          "orientation": {"x": 0.0016, "y": -0.99779, "z": -0.06103, "w": -0.02613},
           "shape": {
             "type": "none",
             "offset": {"x": 0, "y": 0, "z": 0},
@@ -8397,7 +8397,7 @@
               "id": "165",
               "name": "cube--C1",
               "position": {"x": 16.5, "y": 0, "z": -2.6},
-              "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+              "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 0, "z": -2.5},
@@ -8449,7 +8449,7 @@
               "id": "166",
               "name": "cube--C2",
               "position": {"x": 16.5, "y": 0, "z": -1},
-              "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+              "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 0, "z": -2},
@@ -8501,7 +8501,7 @@
               "id": "167",
               "name": "cube--C3",
               "position": {"x": 16.5, "y": 0, "z": -2.1},
-              "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+              "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": 0, "z": -2},
@@ -9148,7 +9148,7 @@
               "id": "180",
               "name": "FastenerPart2",
               "position": {"x": 2, "y": 2, "z": 2},
-              "orientation": {"x": 0, "y": -1, "z": 0, "w": 0},
+              "orientation": {"x": 0, "y": 1, "z": 0, "w": 0},
               "shape": {
                 "type": "box",
                 "offset": {"x": 0, "y": -0.4, "z": -2.5},
@@ -10095,7 +10095,7 @@
                       "id": "200",
                       "name": "cube--C1",
                       "position": {"x": 0.02261, "y": -0.10524, "z": -1.74289},
-                      "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+                      "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
                       "shape": {
                         "type": "box",
                         "offset": {"x": 0, "y": 0, "z": -2.5},
@@ -10147,7 +10147,7 @@
                       "id": "201",
                       "name": "cube--C2",
                       "position": {"x": 0.02261, "y": -0.10524, "z": -0.14289},
-                      "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+                      "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
                       "shape": {
                         "type": "box",
                         "offset": {"x": 0, "y": 0, "z": -2},
@@ -10199,7 +10199,7 @@
                       "id": "202",
                       "name": "cube--C3",
                       "position": {"x": 0.02261, "y": -0.10524, "z": -1.24289},
-                      "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+                      "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
                       "shape": {
                         "type": "box",
                         "offset": {"x": 0, "y": 0, "z": -2},
@@ -10272,7 +10272,7 @@
                       "id": "204",
                       "name": "cube--C1",
                       "position": {"x": 0.02261, "y": -0.10524, "z": -1.74289},
-                      "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+                      "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
                       "shape": {
                         "type": "box",
                         "offset": {"x": 0, "y": 0, "z": -2.5},
@@ -10324,7 +10324,7 @@
                       "id": "205",
                       "name": "cube--C2",
                       "position": {"x": 0.02261, "y": -0.10524, "z": -0.14289},
-                      "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+                      "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
                       "shape": {
                         "type": "box",
                         "offset": {"x": 0, "y": 0, "z": -2},
@@ -10376,7 +10376,7 @@
                       "id": "206",
                       "name": "cube--C3",
                       "position": {"x": 0.02261, "y": -0.10524, "z": -1.24289},
-                      "orientation": {"x": -1, "y": 0, "z": 0, "w": 0},
+                      "orientation": {"x": 1, "y": 0, "z": 0, "w": 0},
                       "shape": {
                         "type": "box",
                         "offset": {"x": 0, "y": 0, "z": -2},

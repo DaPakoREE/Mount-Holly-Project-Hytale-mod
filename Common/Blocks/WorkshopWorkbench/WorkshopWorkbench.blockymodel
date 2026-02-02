@@ -941,7 +941,7 @@
     {
       "id": "19",
       "name": "TableObjects",
-      "position": {"x": 0, "y": 0, "z": 0},
+      "position": {"x": 0, "y": 32, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
       "shape": {
         "type": "none",
@@ -960,7 +960,7 @@
         {
           "id": "20",
           "name": "Ruler--C1",
-          "position": {"x": 31, "y": 32, "z": 12},
+          "position": {"x": 31, "y": 0, "z": 12},
           "orientation": {"x": 0, "y": 0.0654, "z": 0, "w": 0.99786},
           "shape": {
             "type": "box",
@@ -1012,7 +1012,7 @@
         {
           "id": "21",
           "name": "90DegreeRuler",
-          "position": {"x": -36.5, "y": 32, "z": -3},
+          "position": {"x": -36.5, "y": 0, "z": -3},
           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
           "shape": {
             "type": "none",
@@ -1137,7 +1137,7 @@
         {
           "id": "24",
           "name": "Wrench",
-          "position": {"x": -37.5, "y": 32.7, "z": -4},
+          "position": {"x": -37.5, "y": 0.7, "z": -4},
           "orientation": {"x": -0.03042, "y": 0.00025, "z": -0.00224, "w": 0.99953},
           "shape": {
             "type": "none",
@@ -1418,7 +1418,7 @@
         {
           "id": "30",
           "name": "LightBulb",
-          "position": {"x": 19.5, "y": 33, "z": -0.1},
+          "position": {"x": 19.5, "y": 1, "z": -0.1},
           "orientation": {"x": 0.50246, "y": -0.43248, "z": 0.32327, "w": 0.67527},
           "shape": {
             "type": "box",
@@ -1523,7 +1523,7 @@
         {
           "id": "32",
           "name": "LightBulb2",
-          "position": {"x": -24, "y": 32.9, "z": 7},
+          "position": {"x": -24, "y": 0.9, "z": 7},
           "orientation": {"x": 0.26662, "y": -0.70428, "z": 0.52984, "w": 0.39009},
           "shape": {
             "type": "box",
@@ -1628,7 +1628,7 @@
         {
           "id": "34",
           "name": "Wires",
-          "position": {"x": -26.7, "y": 32.5, "z": -8},
+          "position": {"x": -26.7, "y": 0.5, "z": -8},
           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
           "shape": {
             "type": "none",
@@ -2434,7 +2434,7 @@
         {
           "id": "50",
           "name": "Nut",
-          "position": {"x": -19.6, "y": 32.1, "z": -9.8},
+          "position": {"x": -19.6, "y": 0.1, "z": -9.8},
           "orientation": {"x": 0, "y": -0.15643, "z": 0, "w": 0.98769},
           "shape": {
             "type": "box",
@@ -2747,7 +2747,7 @@
         {
           "id": "56",
           "name": "Nut2",
-          "position": {"x": -19.1, "y": 32.1, "z": -7.4},
+          "position": {"x": -19.1, "y": 0.1, "z": -7.4},
           "orientation": {"x": 0, "y": -0.15643, "z": 0, "w": 0.98769},
           "shape": {
             "type": "box",
@@ -3060,7 +3060,7 @@
         {
           "id": "62",
           "name": "FlatNut",
-          "position": {"x": -19.6, "y": 32.1, "z": -8},
+          "position": {"x": -19.6, "y": 0.1, "z": -8},
           "orientation": {"x": 0, "y": -0.28402, "z": 0, "w": 0.95882},
           "shape": {
             "type": "box",
@@ -3373,7 +3373,7 @@
         {
           "id": "68",
           "name": "FlatNut2",
-          "position": {"x": -18.15, "y": 31.6, "z": -7.6},
+          "position": {"x": -18.15, "y": -0.4, "z": -7.6},
           "orientation": {"x": 0, "y": -0.02618, "z": 0, "w": 0.99966},
           "shape": {
             "type": "box",
@@ -3686,7 +3686,7 @@
         {
           "id": "74",
           "name": "Ductape",
-          "position": {"x": -21.6, "y": 33, "z": 2.5},
+          "position": {"x": -21.6, "y": 1, "z": 2.5},
           "orientation": {"x": 0, "y": -0.30071, "z": 0, "w": 0.95372},
           "shape": {
             "type": "box",
@@ -4259,7 +4259,7 @@
         {
           "id": "85",
           "name": "Ductape2",
-          "position": {"x": -26.35, "y": 32.15, "z": 0.5},
+          "position": {"x": -26.35, "y": 0.15, "z": 0.5},
           "orientation": {"x": 0.04037, "y": 0.66448, "z": 0.0516, "w": 0.74443},
           "shape": {
             "type": "box",
@@ -4832,7 +4832,7 @@
         {
           "id": "96",
           "name": "Nut3",
-          "position": {"x": -20.3, "y": 32.1, "z": 8.2},
+          "position": {"x": -20.3, "y": 0.1, "z": 8.2},
           "orientation": {"x": 0, "y": -0.49242, "z": 0, "w": 0.87036},
           "shape": {
             "type": "box",
@@ -5145,7 +5145,7 @@
         {
           "id": "102",
           "name": "Nut4",
-          "position": {"x": -20.5, "y": 32.6, "z": 8},
+          "position": {"x": -20.5, "y": 0.6, "z": 8},
           "orientation": {"x": -0.01305, "y": -0.53975, "z": 0.25704, "w": 0.80152},
           "shape": {
             "type": "box",
@@ -5458,7 +5458,7 @@
         {
           "id": "108",
           "name": "BigGear",
-          "position": {"x": -24.1, "y": 32.35, "z": -2.7},
+          "position": {"x": -24.1, "y": 0.35, "z": -2.7},
           "orientation": {"x": 0.02616, "y": -0.03489, "z": -0.00091, "w": 0.99905},
           "shape": {
             "type": "box",
@@ -6031,7 +6031,7 @@
         {
           "id": "119",
           "name": "Ductape3",
-          "position": {"x": 25.2, "y": 33.8, "z": 7.9},
+          "position": {"x": 25.2, "y": 1.8, "z": 7.9},
           "orientation": {"x": 0.13795, "y": 0.13795, "z": 0.69352, "w": 0.69352},
           "shape": {
             "type": "box",
@@ -6604,7 +6604,7 @@
         {
           "id": "130",
           "name": "Ductape4",
-          "position": {"x": 16.4, "y": 32.9, "z": 6.4},
+          "position": {"x": 16.4, "y": 0.9, "z": 6.4},
           "orientation": {"x": 0, "y": 0.65276, "z": 0, "w": 0.75756},
           "shape": {
             "type": "box",
@@ -7177,7 +7177,7 @@
         {
           "id": "141",
           "name": "Nut5",
-          "position": {"x": 25, "y": 32.1, "z": -2.5},
+          "position": {"x": 25, "y": 0.1, "z": -2.5},
           "orientation": {"x": 0, "y": -0.15643, "z": 0, "w": 0.98769},
           "shape": {
             "type": "box",
@@ -7490,7 +7490,7 @@
         {
           "id": "147",
           "name": "FlatNut3",
-          "position": {"x": 17.75, "y": 32.1, "z": 0.35},
+          "position": {"x": 17.75, "y": 0.1, "z": 0.35},
           "orientation": {"x": 0, "y": -0.59483, "z": 0, "w": 0.80385},
           "shape": {
             "type": "box",
@@ -7803,7 +7803,7 @@
         {
           "id": "153",
           "name": "Fastener",
-          "position": {"x": 21.9, "y": 32, "z": 0.4},
+          "position": {"x": 21.9, "y": 0, "z": 0.4},
           "orientation": {"x": 0, "y": -0.27564, "z": 0, "w": 0.96126},
           "shape": {
             "type": "box",
@@ -8220,7 +8220,7 @@
         {
           "id": "161",
           "name": "Screwdriver",
-          "position": {"x": 15.8, "y": 33.25, "z": 7.3},
+          "position": {"x": 15.8, "y": 1.25, "z": 7.3},
           "orientation": {"x": 0.04902, "y": -0.35015, "z": -0.00611, "w": 0.93539},
           "shape": {
             "type": "box",
@@ -8377,7 +8377,7 @@
         {
           "id": "164",
           "name": "DoubleScrew",
-          "position": {"x": 0.1, "y": 32.3, "z": -3},
+          "position": {"x": 0.1, "y": 0.3, "z": -3},
           "orientation": {"x": 0.0016, "y": -0.99779, "z": -0.06103, "w": -0.02613},
           "shape": {
             "type": "none",
@@ -8554,7 +8554,7 @@
         {
           "id": "168",
           "name": "BigFastener",
-          "position": {"x": 18.5, "y": 31.6, "z": 13.95},
+          "position": {"x": 18.5, "y": -0.4, "z": 13.95},
           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
           "shape": {
             "type": "none",
@@ -9568,7 +9568,7 @@
         {
           "id": "188",
           "name": "Toolbox",
-          "position": {"x": 1.5, "y": 31.95, "z": 13},
+          "position": {"x": 1.5, "y": -0.05, "z": 13},
           "orientation": {"x": 0, "y": 0.02181, "z": 0, "w": 0.99976},
           "shape": {
             "type": "none",
@@ -10694,7 +10694,7 @@
         {
           "id": "212",
           "name": "Toolbox2",
-          "position": {"x": -15, "y": 31.95, "z": 12},
+          "position": {"x": -15, "y": -0.05, "z": 12},
           "orientation": {"x": 0, "y": -0.0654, "z": 0, "w": 0.99786},
           "shape": {
             "type": "none",

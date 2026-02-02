@@ -1,0 +1,150 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.West_Gate.name"
+  },
+  "Icon": "Icons/ItemsGenerated/West_Gate.png",
+  "Categories": [
+    "Furniture.Doors"
+  ],
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Wood_Hardwood",
+        "Quantity": 2
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Door"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/WestGate/WestGate.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/WestGate/WestGate_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Door",
+    "VariantRotation": "NESW",
+    "State": {
+      "Definitions": {
+        "CloseDoorIn": {
+          "InteractionSoundEventId": "SFX_Door_Wooden_Close",
+          "CustomModel": "Blocks/WestGate/WestGate.blockymodel",
+          "CustomModelAnimation": "Blocks/WestGate/Animations/CloseGateIn.blockyanim",
+          "DrawType": "Model",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/WestGate/WestGate_Texture.png"
+            }
+          ],
+          "TransitionTexture": "Blocks/WestGate/WestGate_Texture.png"
+        },
+        "CloseDoorOut": {
+          "InteractionSoundEventId": "SFX_Door_Wooden_Close",
+          "CustomModel": "Blocks/WestGate/WestGate.blockymodel",
+          "CustomModelAnimation": "Blocks/WestGate/Animations/CloseGateOut.blockyanim",
+          "DrawType": "Model",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/WestGate/WestGate_Texture.png"
+            }
+          ]
+        },
+        "DoorBlocked": {
+          "DrawType": "Model",
+          "CustomModel": "Blocks/WestGate/WestGate.blockymodel",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/WestGate/WestGate_Texture.png"
+            }
+          ]
+        },
+        "OpenDoorIn": {
+          "HitboxType": "Door_Open_In",
+          "InteractionHitboxType": "Door_Open_In_Interaction",
+          "InteractionSoundEventId": "SFX_Door_Wooden_Open",
+          "CustomModel": "Blocks/WestGate/WestGate.blockymodel",
+          "CustomModelAnimation": "Blocks/WestGate/Animations/OpenGateIn.blockyanim",
+          "DrawType": "Model",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/WestGate/WestGate_Texture.png"
+            }
+          ]
+        },
+        "OpenDoorOut": {
+          "HitboxType": "Door_Open_Out",
+          "InteractionHitboxType": "Door_Open_Out_Interaction",
+          "InteractionSoundEventId": "SFX_Door_Wooden_Open",
+          "CustomModel": "Blocks/WestGate/WestGate.blockymodel",
+          "CustomModelAnimation": "Blocks/WestGate/Animations/OpenGateOut.blockyanim",
+          "DrawType": "Model",
+          "CubeShadingMode": "Standard",
+          "CustomModelTexture": [
+            {
+              "Texture": "Blocks/WestGate/WestGate_Texture.png"
+            }
+          ]
+        }
+      }
+    },
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "ParticleColor": "#5b3222",
+    "BlockSoundSetId": "Wood",
+    "IsDoor": true,
+    "Interactions": {
+      "Use": "Door"
+    }
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.45,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -27
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Village"
+    ]
+  },
+  "Scale": 0.8,
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

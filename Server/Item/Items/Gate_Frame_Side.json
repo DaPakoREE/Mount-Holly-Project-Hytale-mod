@@ -1,0 +1,80 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Gate_Frame_Side.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Gate_Frame_Side.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Wood_Hardwood",
+        "Quantity": 2
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Door"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "HitboxType": "Door",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "ParticleColor": "#5b3222",
+    "BlockSoundSetId": "Wood",
+    "IsDoor": false,
+    "Group": "Wood",
+    "CustomModel": "Blocks/GateFrameSide/GateFrameSide.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/GateFrameSide/GateFrameSide_Texture.png"
+      }
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.45,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -27
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Hardwood"
+    ]
+  },
+  "Scale": 1,
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "PlayerAnimationsId": "Block"
+}

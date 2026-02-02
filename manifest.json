@@ -1,0 +1,20 @@
+{
+  "Group": "MountHollyRecreationProject",
+  "Name": "BluePrinceModels",
+  "Version": "1.0.0",
+  "Description": "Adds a bunch of different objects modeled after the game Blue Prince",
+  "Authors": [
+    {
+      "Name": "Da_Pako",
+      "Email": "oliverskoldberg.dev@gmail.com",
+      "Url": "https://oliver-skoldberg.pages.dev/"
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

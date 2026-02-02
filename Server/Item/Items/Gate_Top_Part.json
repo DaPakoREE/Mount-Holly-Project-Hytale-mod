@@ -1,0 +1,77 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Gate_Top_Part.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Gate_Top_Part.png",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Cloth_Block_Wool_Cyan",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "Ingredient_Fibre",
+        "Quantity": 4
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Furniture_Bench",
+        "Categories": [
+          "Furniture_Misc"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/GateTopPart/GateTopPart.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/GateTopPart/GateTopPart_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Wood",
+    "HitboxType": "Gate_Top_Part_Hitbox",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "IsDoor": false,
+    "MaxSupportDistance": 0,
+    "ParticleColor": "#582f22"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      24,
+      45,
+      22.5
+    ],
+    "Translation": [
+      1,
+      -3
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Hardwood"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

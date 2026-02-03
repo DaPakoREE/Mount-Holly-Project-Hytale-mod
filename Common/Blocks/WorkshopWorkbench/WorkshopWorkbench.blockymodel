@@ -4,7 +4,7 @@
       "id": "1",
       "name": "TableBase",
       "position": {"x": -15, "y": 0, "z": -1},
-      "orientation": {"x": 0, "y": -1, "z": 0, "w": 0},
+      "orientation": {"x": 0, "y": 1, "z": 0, "w": 0},
       "shape": {
         "type": "none",
         "offset": {"x": 0, "y": 0, "z": 0},
@@ -963,7 +963,7 @@
       "id": "20",
       "name": "TableObjects",
       "position": {"x": -15, "y": 32, "z": -1},
-      "orientation": {"x": 0, "y": -1, "z": 0, "w": 0},
+      "orientation": {"x": 0, "y": 1, "z": 0, "w": 0},
       "shape": {
         "type": "none",
         "offset": {"x": 0, "y": 0, "z": 0},
@@ -3081,7 +3081,7 @@
         {
           "id": "63",
           "name": "FlatNut",
-          "position": {"x": -19.6, "y": 0.1, "z": -8},
+          "position": {"x": -19.6, "y": 0.15, "z": -8},
           "orientation": {"x": 0, "y": -0.28402, "z": 0, "w": 0.95882},
           "shape": {
             "type": "box",
@@ -3394,7 +3394,7 @@
         {
           "id": "69",
           "name": "FlatNut2",
-          "position": {"x": -18.15, "y": -0.4, "z": -7.6},
+          "position": {"x": -18.15, "y": -0.35, "z": -7.6},
           "orientation": {"x": 0, "y": -0.02618, "z": 0, "w": 0.99966},
           "shape": {
             "type": "box",
@@ -5790,12 +5790,12 @@
             {
               "id": "115",
               "name": "cube--C1",
-              "position": {"x": -2.0576, "y": -0.6, "z": -1.2},
+              "position": {"x": -2.0326, "y": -0.6, "z": -1.2},
               "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
               "shape": {
                 "type": "box",
                 "offset": {"x": -1.4514, "y": 0.6, "z": -0.2},
-                "stretch": {"x": 0.05, "y": 0.8, "z": 1.6},
+                "stretch": {"x": 0.1, "y": 0.77, "z": 1.6},
                 "settings": {
                   "isPiece": false,
                   "size": {"x": 1, "y": 2, "z": 1},
@@ -7198,7 +7198,7 @@
         {
           "id": "142",
           "name": "FlatNut3",
-          "position": {"x": 17.75, "y": 0.1, "z": 0.35},
+          "position": {"x": 17.75, "y": 0.15, "z": 0.35},
           "orientation": {"x": 0, "y": -0.59483, "z": 0, "w": 0.80385},
           "shape": {
             "type": "box",

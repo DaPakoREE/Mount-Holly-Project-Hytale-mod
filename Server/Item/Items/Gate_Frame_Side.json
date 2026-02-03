@@ -57,10 +57,12 @@
   },
   "ResourceTypes": [
     {
-      "Id": "Fuel"
+      "Id": "Fuel",
+      "Quantity": 2
     },
     {
-      "Id": "Charcoal"
+      "Id": "Charcoal",
+      "Quantity": 1
     }
   ],
   "Tags": {

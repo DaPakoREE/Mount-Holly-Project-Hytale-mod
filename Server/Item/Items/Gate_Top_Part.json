@@ -68,5 +68,15 @@
       "Hardwood"
     ]
   },
-  "ItemSoundSetId": "ISS_Blocks_Wood"
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "ResourceTypes": [
+    {
+      "Id": "Fuel",
+      "Quantity": 1
+    },
+    {
+      "Id": "Charcoal",
+      "Quantity": 1
+    }
+  ]
 }

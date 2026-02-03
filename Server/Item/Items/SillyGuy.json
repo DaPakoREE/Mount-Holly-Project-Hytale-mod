@@ -1,0 +1,69 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Silly_Guy.name"
+  },
+  "Icon": "Icons/ItemsGenerated/SillyGuy.png",
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "ConnectedBlockRuleSet": null,
+    "ParticleColor": "#dfdfdf",
+    "DrawType": "Model",
+    "CustomModel": "Blocks/SillyGuy/SillyGuy.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/SillyGuy/SillyGuy_Texture.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "Group": "Stone",
+    "HitboxType": "SillyGuy_Hitbox",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "BlockSoundSetId": "Stone",
+    "BlockParticleSetId": "Stone",
+    "CustomModelScale": 2
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Mithril",
+        "Quantity": 3
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Workshopbench",
+        "Type": "Crafting",
+        "Categories": [
+          "Workshop_Non_BP"
+        ]
+      }
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Rock"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -36
+    ]
+  },
+  "PlayerAnimationsId": "Block",
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "ItemLevel": 50,
+  "MaxStack": 100,
+  "Quality": "Legendary"
+}

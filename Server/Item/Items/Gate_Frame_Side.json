@@ -12,10 +12,10 @@
     ],
     "BenchRequirement": [
       {
-        "Id": "Builders",
-        "Type": "StructuralCrafting",
+        "Id": "Workshopbench",
+        "Type": "Crafting",
         "Categories": [
-          "Door"
+          "Workshop_WestGate"
         ]
       }
     ]

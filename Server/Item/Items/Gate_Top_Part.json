@@ -9,20 +9,16 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Cloth_Block_Wool_Cyan",
-        "Quantity": 2
-      },
-      {
-        "ItemId": "Ingredient_Fibre",
-        "Quantity": 4
+        "Quantity": 1,
+        "ResourceTypeId": "Wood_Hardwood"
       }
     ],
     "BenchRequirement": [
       {
         "Type": "Crafting",
-        "Id": "Furniture_Bench",
+        "Id": "Workshopbench",
         "Categories": [
-          "Furniture_Misc"
+          "Workshop_WestGate"
         ]
       }
     ]
@@ -48,7 +44,6 @@
     },
     "BlockParticleSetId": "Wood",
     "BlockSoundSetId": "Wood",
-    "IsDoor": false,
     "MaxSupportDistance": 0,
     "ParticleColor": "#582f22"
   },

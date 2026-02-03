@@ -1,0 +1,61 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Rock_Aqua_Cobble.name"
+  },
+  "Icon": "Icons/ItemsGenerated/CUBE.png",
+  "Set": "Rock_Aqua_Cobble",
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "ConnectedBlockRuleSet": null,
+    "ParticleColor": "#58ad9b",
+    "DrawType": "Model",
+    "CustomModel": "Blocks/TestCube/TestCube.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/TestCube/TestCube_Texture.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "Group": "Stone",
+    "HitboxType": "CUBE_Hitbox",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "BlockSoundSetId": "Stone",
+    "BlockParticleSetId": "Stone",
+    "CustomModelScale": 2
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Rock"
+    },
+    {
+      "Id": "Rock_Aqua"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Rock"
+    ],
+    "Family": [
+      "Aqua"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.1,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -70
+    ]
+  },
+  "PlayerAnimationsId": "Block",
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}

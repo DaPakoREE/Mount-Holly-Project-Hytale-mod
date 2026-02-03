@@ -1,3 +1,8 @@
 items.Gate_Top_Part.name = Top Gate Part
 items.Gate_Frame_Side.name = Gate Side
 items.West_Gate.name = West Gate
+
+items.Bench_Workshop.name = Workshop Workbench
+items.Bench_Workshop.description = Here you can craft blocks modeled after the game Blue Prince
+benchCategories.workshopwestgate = Workshop West Gate
+benchCategories.workshopmisc = Workshop Misc
